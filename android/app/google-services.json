@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "281213103001",
+    "project_id": "hackathon2024-7e550",
+    "storage_bucket": "hackathon2024-7e550.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281213103001:android:dc79ee82fb27aff3b48108",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT4hUtTQmiILyGpACi8-G6zWYKYhJMP2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
