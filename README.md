@@ -20,22 +20,6 @@ Mobil uygulamanın tasarımı için Figma platformu, mobil uygulamanın kodlanma
 </pre>
 
 
-<img src="https://github.com/user-attachments/assets/38cc8cfc-e044-4e9c-b4c7-8ac0e3f8074e" width="250" />
-<img src="https://github.com/user-attachments/assets/1ae422ca-c2ba-46ac-bbd7-582f3d3f7ae6" width="250" />
-<img src="https://github.com/user-attachments/assets/a9b75abc-55a5-4a82-9386-680661d7bb94" width="250" />
-<img src="https://github.com/user-attachments/assets/00a340ee-096e-4326-b26a-3486fa3a3cb5" width="250" />
-<img src="https://github.com/user-attachments/assets/0e50e495-c37e-4bd7-a7eb-b429a753e57e" width="250" />
-<img src="https://github.com/user-attachments/assets/b8cb110f-e029-4fac-adc5-cf4119d6fb4a" width="250" />
-<img src="https://github.com/user-attachments/assets/bb4ebc25-19be-4d14-b204-41795e396f5a" width="250" />
-<img src="https://github.com/user-attachments/assets/b60c66f9-c414-4720-b32e-6ad706314f36" width="250" />
-<img src="https://github.com/user-attachments/assets/19eb2d63-70fa-48ac-b782-c23de637ba9a" width="250" />
-<img src="https://github.com/user-attachments/assets/71049e2b-7fe0-4575-a9c1-58b15946fd0a" width="250" />
-<img src="https://github.com/user-attachments/assets/0757108d-ef5e-47f8-81f9-3bf354a1b9ce" width="250" />
-
-
-
-
-
 
 ## 🧩 MOBİL UYGULAMA VİDEOSU
 
