@@ -24,7 +24,7 @@ Mobil uygulamanın tasarımı için Figma platformu, mobil uygulamanın kodlanma
 
 ## 🧩 MOBİL UYGULAMA VİDEOSU
 
- <a href="https://youtu.be/s3-ghtCo6UI"> <img src="https://github.com/user-attachments/assets/67b074a8-63e8-49af-b762-f34df36cd345" alt="FAIDAI" style="width: 900px;"> </a>
+ <a href="https://youtu.be/s3-ghtCo6UI"> <img src="https://github.com/user-attachments/assets/0586468b-37c4-48af-ae2d-927642dc1ce3" alt="MiniKasifler" style="width: 900px;"> </a>
 
 
 ## 🧩 TAKIM ÜYELERİ
